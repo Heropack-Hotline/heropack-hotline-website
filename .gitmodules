@@ -1,0 +1,3 @@
+[submodule "themes/plume"]
+	path = themes/plume
+	url = https://github.com/Dobefu/hugo-theme-plume.git

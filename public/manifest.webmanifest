@@ -1,0 +1,11 @@
+{
+  "name": "Heropack Hotline",
+  "short_name": "Heropack Hotline",
+  "description": "Heropack Hotline",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
