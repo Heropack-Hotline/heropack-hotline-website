@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/attribute_profiles/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/augments/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/damage_profiles/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/external_data_files/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/fabricator_recipes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/keybind_enabled/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/keybind_funcs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/keybind_menus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/modifier_enabled/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/modifiers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/nbt_data/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/data/tick_handlers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/heropack/alts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/heropack/damage_types/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/heropack/data_variables/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/other/heropack_marketplace/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/programming/files_types/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/programming/js_variables/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/programming/troubleshooting/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/renderer/rebderer_properties/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/renderer/renderer_effects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/renderer/renderer_inheritance/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/sound/setting_up_sounds/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/system/homepage/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/texture/giving_your_suit_a_texture/</loc>
+  </url><url>
+    <loc>http://localhost:1313/HeropackHotlineWebsite/docs/</loc>
+  </url><url>
     <loc>http://localhost:1313/HeropackHotlineWebsite/</loc>
   </url>
 </urlset>

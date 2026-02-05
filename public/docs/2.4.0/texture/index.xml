@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Texture on Heropack Hotline</title>
+    <link>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/texture/</link>
+    <description>Recent content in Texture on Heropack Hotline</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <atom:link href="http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/texture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started</title>
+      <link>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/texture/giving_your_suit_a_texture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/HeropackHotlineWebsite/docs/2.4.0/texture/giving_your_suit_a_texture/</guid>
+      <description>&lt;p&gt;Getting started with the Plume theme.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
