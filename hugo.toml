@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://heropack-hotline.github.io/HeropackHotlineWebsite/'
 languageCode = 'en-US'
 title = 'Heropack Hotline'
 theme = 'plume'
@@ -15,6 +15,7 @@ disableKinds = ['taxonomy', 'term']
   showEditLink = true
 
   [params.socialLinks]
+    discord = 'https://discord.gg/<your-discord-server-invite-link>'
     github = 'https://github.com/Heropack-Hotline/HeropackHotlineWebsite'
 
 [menus]
