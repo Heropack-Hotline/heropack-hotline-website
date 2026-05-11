@@ -15,7 +15,7 @@ disableKinds = ['taxonomy', 'term']
   showEditLink = true
 
   [params.socialLinks]
-    discord = 'https://discord.gg/<your-discord-server-invite-link>'
+    discord = 'https://discord.gg/MA7DuKm'
     github = 'https://github.com/Heropack-Hotline/HeropackHotlineWebsite'
 
 [menus]
