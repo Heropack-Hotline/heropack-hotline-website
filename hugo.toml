@@ -1,5 +1,4 @@
 baseURL = 'https://heropack-hotline.github.io/HeropackHotlineWebsite/'
-languageCode = 'en-US'
 title = 'Heropack Hotline'
 theme = 'plume'
 
