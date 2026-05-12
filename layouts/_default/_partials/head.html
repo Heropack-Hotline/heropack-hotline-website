@@ -3,13 +3,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="theme-color" content="{{ site.Params.themeColor }}">
   <link rel="icon" href="{{ "favicon.ico" | absURL }}" sizes="any">
-  <link rel="apple-touch-icon" href="{{ "favicon.ico" | absURL }}">
+  <link rel="apple-touch-icon" href="{{ "favicon.png" | absURL }}">
 
   {{- partialCached "head/preload.html" . -}}
 
   {{- $title := cond .IsHome .Title (printf "%s | %s" .Title site.Title) -}}
   {{- $description := .Description | default site.Params.description -}}
-  {{- $image := .Params.image | default "/favicon.ico" | absURL -}}
+  {{- $image := .Params.image | default "/favicon.png" | absURL -}}
   {{- $keywords := .Params.keywords | default site.Params.keywords -}}
   {{- $author := .Params.author | default site.Params.author -}}
 
@@ -17,16 +17,9 @@
   <meta name="description" content="{{ $description }}">
   <meta name="keywords" content="{{ $keywords }}">
   <meta name="author" content="{{ $author }}">
-  <meta name="language" content="{{ site.LanguageCode }}">
 
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="manifest" href="{{ .Site.BaseURL }}manifest.webmanifest">
-
-  {{- if gt (len site.Languages) 1 -}}
-    {{- range .AllTranslations -}}
-      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
-    {{- end -}}
-  {{- end -}}
 
   <meta property="og:title" content="{{ $title }}">
   <meta property="og:description" content="{{ $description }}">
@@ -37,7 +30,6 @@
   <meta property="og:image" content="{{ $image }}">
   <meta property="og:image:width" content="512">
   <meta property="og:image:height" content="512">
-  <meta property="og:image:alt" content="{{ site.Title }} logo">
 
   {{- if not .IsHome -}}
     <meta property="article:author" content="{{ $author }}">
