@@ -11,13 +11,12 @@ disableKinds = ['taxonomy', 'term']
   author = 'CandyFreak2, SkarMC'
   backgroundColor = '#000000'
   themeColor = '#1E8BA7'
-  repositoryContentDir = 'https://github.com/Heropack-Hotline/HeropackHotlineWebsite'
   showEditLink = true
 
   [params.socialLinks]
     curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fiskheroes'
     discord = 'https://discord.gg/MA7DuKm'
-    github = 'https://github.com/Heropack-Hotline/HeropackHotlineWebsite'
+    github = 'https://github.com/Heropack-Hotline/heropack-hotline-website'
 
 [menus]
   [[menus.main]]
