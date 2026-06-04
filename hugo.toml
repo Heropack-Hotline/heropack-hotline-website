@@ -14,8 +14,8 @@ disableKinds = ['taxonomy', 'term']
   showEditLink = true
 
   [params.socialLinks]
-    curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fiskheroes',
-    discord = 'https://discord.gg/MA7DuKm',
+    curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fiskheroes'
+    discord = 'https://discord.gg/MA7DuKm'
     github = 'https://github.com/Heropack-Hotline/HeropackHotlineWebsite'
 
 [menus]
