@@ -9,7 +9,7 @@ disableKinds = ['taxonomy', 'term']
   description = 'Heropack Hotline'
   keywords = 'fiskheroes, heropack, documentation, minecraft, superheroes'
   author = 'CandyFreak2, SkarMC'
-  backgroundColor = '#ffffff'
+  backgroundColor = '#000000'
   themeColor = '#1E8BA7'
   showEditLink = true
 
