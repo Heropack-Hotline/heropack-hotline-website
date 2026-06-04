@@ -1,6 +1,9 @@
 @font-face {
-    font-family: "Open 24 Display St";
-    src: url('/fonts/open_24_display_st-webfont.woff2') format('TrueType');
+    font-family: 'open_24_display_stregular';
+    src: url('open_24_display_st-webfont.woff2') format('woff2'),
+         url('open_24_display_st-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 
 body {
