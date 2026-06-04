@@ -1,4 +1,8 @@
 @font-face {
     font-family: "Open 24 Display St";
-    src: url('/fonts/open_24_display_st-webfont.woff2') format('woff2');
+    src: url('/fonts/open_24_display_st-webfont.woff2') format('TrueType');
+}
+
+body {
+font-family: Open 24 Display St, sans-serif;
 }
