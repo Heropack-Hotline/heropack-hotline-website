@@ -10,7 +10,7 @@ disableKinds = ['taxonomy', 'term']
   keywords = 'Plume, Hugo, documentation, theme'
   author = 'CandyFreak2'
   backgroundColor = '#ffffff'
-  themeColor = '#000000'
+  themeColor = '#1E8BA7'
   showEditLink = true
 
   [params.socialLinks]
