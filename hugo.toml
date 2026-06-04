@@ -7,14 +7,15 @@ disableKinds = ['taxonomy', 'term']
 [params]
   shortName = 'Heropack Hotline'
   description = 'Heropack Hotline'
-  keywords = 'Plume, Hugo, documentation, theme'
-  author = 'CandyFreak2'
+  keywords = 'fiskheroes, heropack, documentation, minecraft, superheroes'
+  author = 'CandyFreak2, SkarMC'
   backgroundColor = '#ffffff'
   themeColor = '#1E8BA7'
   showEditLink = true
 
   [params.socialLinks]
-    discord = 'https://discord.gg/MA7DuKm'
+    curseforge = 'https://www.curseforge.com/minecraft/mc-mods/fiskheroes',
+    discord = 'https://discord.gg/MA7DuKm',
     github = 'https://github.com/Heropack-Hotline/HeropackHotlineWebsite'
 
 [menus]
